@@ -5,6 +5,7 @@ object FunctionVSMethod {
     println("Testing main method")
     println("second line added")
     println("second line added 2")
+    println("second line added 3")
   }
 }
 
